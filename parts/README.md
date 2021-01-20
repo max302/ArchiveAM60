@@ -37,7 +37,7 @@
 | Battery                 | Yuasa 9.5Ah                | 229037       |                | 12N9-4B-1 |
 | Stator                  |                            | 970608K      |                |           |
 | Regulator               |                            | 970605S      |                |           |
-| Starter                 |                            | 970608S      | 31200-KTT-900  |           |
+| Starter                 |                            | 970608S      | 31200-KTT-900* |           |
 | ECU                     | Delphi MT05                | 970605Q      |                |           |
 
 # Fueling
